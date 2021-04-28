@@ -25,6 +25,22 @@ This class will familiarize you with a broad cross-section of models and algorit
 
 **[Module 4: Logistic Regression Classification Method](https://github.com/timc823/IST347/tree/main/Week_4)**
 
-**[Module 5: K-Nearest Neighbors Classification
-](https://github.com/timc823/IST347/tree/main/Week_5)**
+**[Module 5: K-Nearest Neighbors Classification](https://github.com/timc823/IST347/tree/main/Week_5)**
 
+ **[Module 6: Decision Tree Classification](https://github.com/timc823/IST347/tree/main/Week_6)**
+
+ **[Module 7: Naive Bayes Method](https://github.com/timc823/IST347/tree/main/Week_7)**
+
+ **[Module 8: Mid-term week](https://github.com/timc823/IST347/tree/main/Exam)**
+
+ **[Module 9: Clustering methods](https://github.com/timc823/IST347/tree/main/Week_9)**
+
+ **[Module 10: Association Rules](https://github.com/timc823/IST347/tree/main/Week_10)**
+
+ **[Module 11: Deep Learning with Neural Networks](https://github.com/timc823/IST347/tree/main/Week_11)**
+
+ **[Module 12: Coding ANN and Deep Networks Using TensorFlow & Keras](https://github.com/timc823/IST347/tree/main/Week_12)**
+
+ **[Module 13: Convolutional Neural Networks (CNNs)](https://github.com/timc823/IST347/tree/main/Week_13)**
+
+ **[Module 14: NLP & Text Mining](https://github.com/timc823/IST347/tree/main/Week_14)**
