@@ -1,4 +1,4 @@
-# Module 1: Introduction to Machine Learning & Predictive Analytics
+# Module 1: Introduction to Machine Learning & Predictive Analytics 
 
 We live in a world that generates tremendous amount of data – more than ever before. Machine learning is often used to build predictive models by extracting patterns from large datasets. These models are used in predictive data analytics applications including price predictions, risk assessment, predicting diseases, predicting customer behavior and document classification.
 
