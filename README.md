@@ -23,23 +23,23 @@ This class will familiarize you with a broad cross-section of models and algorit
 
 **[Module 0: Course Project](https://github.com/timc823/IST347/tree/main/Project)**
 
-**[Module 1: Introduction to Machine Learning & Predictive Analytics](https://github.com/timc823/IST347/tree/main/Week_1)**
+**[Module 1: Introduction to Machine Learning & Predictive Analytics](https://github.com/timc823/IST347/tree/main/Week_01)**
 
-**[Module 2: Data pre-processing and exploration](https://github.com/timc823/IST347/tree/main/Week_2)**
+**[Module 2: Data pre-processing and exploration](https://github.com/timc823/IST347/tree/main/Week_02)**
 
-**[Module 3: Regression models (Linear Regression)](https://github.com/timc823/IST347/tree/main/Week_3)**
+**[Module 3: Regression models (Linear Regression)](https://github.com/timc823/IST347/tree/main/Week_03)**
 
-**[Module 4: Logistic Regression Classification Method](https://github.com/timc823/IST347/tree/main/Week_4)**
+**[Module 4: Logistic Regression Classification Method](https://github.com/timc823/IST347/tree/main/Week_04)**
 
-**[Module 5: K-Nearest Neighbors Classification](https://github.com/timc823/IST347/tree/main/Week_5)**
+**[Module 5: K-Nearest Neighbors Classification](https://github.com/timc823/IST347/tree/main/Week_05)**
 
- **[Module 6: Decision Tree Classification](https://github.com/timc823/IST347/tree/main/Week_6)**
+ **[Module 6: Decision Tree Classification](https://github.com/timc823/IST347/tree/main/Week_06)**
 
- **[Module 7: Naive Bayes Method](https://github.com/timc823/IST347/tree/main/Week_7)**
+ **[Module 7: Naive Bayes Method](https://github.com/timc823/IST347/tree/main/Week_07)**
 
- **[Module 8: Mid-term week](https://github.com/timc823/IST347/tree/main/Exam)**
+ **[Module 8: Mid-term week](https://github.com/timc823/IST347/tree/main/Week_08)**
 
- **[Module 9: Clustering methods](https://github.com/timc823/IST347/tree/main/Week_9)**
+ **[Module 9: Clustering methods](https://github.com/timc823/IST347/tree/main/Week_09)**
 
  **[Module 10: Association Rules](https://github.com/timc823/IST347/tree/main/Week_10)**
 
