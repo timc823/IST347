@@ -9,4 +9,5 @@ We will learn both the theory and practice side of deep learning.
 Some of the main concepts that we will cover includes perceptrons, activation function, feed-forward, back propagation, gradient descent, optimizers and multi-layer deep neural networks.
 
 On the practical side, we will learn how to construct ANN using the TensorFlow and Keras packages.
- 
+
+> There's no assignment this week. Assignment for this topic is in [week 12 folder](https://github.com/timc823/IST347/tree/main/Week_12)

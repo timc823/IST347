@@ -2,14 +2,6 @@
 
 &nbsp;
 
-## Contributing
-
-Pull requests are welcome if there's an error in the solution or wrong answers are provided.
-
-For Educational Purpose Only. It's better if you complete the assignments by yourself and **only** refer to this if you are stuck in the middle.
-
-&nbsp;
-
 ## Course Overview:
 We live in a world that generates a tremendous amount of data -more than ever before. Machine learning is often used to build predictive models by extracting patterns from large datasets. These models are used in predictive data analytics applications including price predictions, risk assessment, predicting diseases, predicting customer behavior and document classification. 
 
@@ -50,3 +42,13 @@ This class will familiarize you with a broad cross-section of models and algorit
  **[Module 13: Convolutional Neural Networks (CNNs)](https://github.com/timc823/IST347/tree/main/Week_13)**
 
  **[Module 14: NLP & Text Mining](https://github.com/timc823/IST347/tree/main/Week_14)**
+
+&nbsp;
+
+## Contributing
+
+Pull requests are welcome if there's an error in the solution or wrong answers are provided.
+
+For Educational Purpose Only. It's better if you complete the assignments by yourself and **only** refer to this if you are stuck in the middle.
+
+
