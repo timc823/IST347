@@ -16,7 +16,7 @@ This class will familiarize you with a broad cross-section of models and algorit
 
 ## Modules
 
-**[[Module 0: Course Project](https://github.com/timc823/IST347/tree/main/Project)]**
+**[Module 0: Course Project](https://github.com/timc823/IST347/tree/main/Project)**
 
 **[Module 1: Introduction to Machine Learning & Predictive Analytics](https://github.com/timc823/IST347/tree/main/Week_1)**
 
