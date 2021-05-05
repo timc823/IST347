@@ -42,7 +42,8 @@ This class will familiarize you with a broad cross-section of models and algorit
  **[Module 13: Convolutional Neural Networks (CNNs)](https://github.com/timc823/IST347/tree/main/Week_13)**
 
  **[Module 14: NLP & Text Mining](https://github.com/timc823/IST347/tree/main/Week_14)**
-
+ 
+ **[Module 15 - Miscellaneous](https://github.com/timc823/IST347/tree/main/Week_15)**
 &nbsp;
 
 ## Contributing
