@@ -13,37 +13,37 @@ This class will familiarize you with a broad cross-section of models and algorit
 
 ## Modules
 
-**[Module 1: Introduction to Machine Learning & Predictive Analytics](https://github.com/timc823/IST347/tree/main/Week_01)**
+[Module 1: Introduction to Machine Learning & Predictive Analytics](https://github.com/timc823/IST347/tree/main/Week_01)
 
-**[Module 2: Data pre-processing and exploration](https://github.com/timc823/IST347/tree/main/Week_02)**
+[Module 2: Data pre-processing and exploration](https://github.com/timc823/IST347/tree/main/Week_02)
 
-**[Module 3: Regression models (Linear Regression)](https://github.com/timc823/IST347/tree/main/Week_03)**
+[Module 3: Regression models (Linear Regression)](https://github.com/timc823/IST347/tree/main/Week_03)
 
-**[Module 4: Logistic Regression Classification Method](https://github.com/timc823/IST347/tree/main/Week_04)**
+[Module 4: Logistic Regression Classification Method](https://github.com/timc823/IST347/tree/main/Week_04)
 
-**[Module 5: K-Nearest Neighbors Classification](https://github.com/timc823/IST347/tree/main/Week_05)**
+[Module 5: K-Nearest Neighbors Classification](https://github.com/timc823/IST347/tree/main/Week_05)
 
- **[Module 6: Decision Tree Classification](https://github.com/timc823/IST347/tree/main/Week_06)**
+ [Module 6: Decision Tree Classification](https://github.com/timc823/IST347/tree/main/Week_06)
 
- **[Module 7: Naive Bayes Method](https://github.com/timc823/IST347/tree/main/Week_07)**
+ [Module 7: Naive Bayes Method](https://github.com/timc823/IST347/tree/main/Week_07)
 
- **[Module 8: Mid-term week](https://github.com/timc823/IST347/tree/main/Week_08)**
+ [Module 8: Mid-term week](https://github.com/timc823/IST347/tree/main/Week_08)
 
- **[Module 9: Clustering methods](https://github.com/timc823/IST347/tree/main/Week_09)**
+ [Module 9: Clustering methods](https://github.com/timc823/IST347/tree/main/Week_09)
 
- **[Module 10: Association Rules](https://github.com/timc823/IST347/tree/main/Week_10)**
+ [Module 10: Association Rules](https://github.com/timc823/IST347/tree/main/Week_10)
 
- **[Module 11: Deep Learning with Neural Networks](https://github.com/timc823/IST347/tree/main/Week_11)**
+ [Module 11: Deep Learning with Neural Networks](https://github.com/timc823/IST347/tree/main/Week_11)
 
- **[Module 12: Coding ANN and Deep Networks Using TensorFlow & Keras](https://github.com/timc823/IST347/tree/main/Week_12)**
+ [Module 12: Coding ANN and Deep Networks Using TensorFlow & Keras](https://github.com/timc823/IST347/tree/main/Week_12)
 
- **[Module 13: Convolutional Neural Networks (CNNs)](https://github.com/timc823/IST347/tree/main/Week_13)**
+ [Module 13: Convolutional Neural Networks (CNNs)](https://github.com/timc823/IST347/tree/main/Week_13)
 
- **[Module 14: NLP & Text Mining](https://github.com/timc823/IST347/tree/main/Week_14)**
+ [Module 14: NLP & Text Mining](https://github.com/timc823/IST347/tree/main/Week_14)
  
- **[Module 15 - Miscellaneous](https://github.com/timc823/IST347/tree/main/Week_15)**
+ [Module 15 - Miscellaneous](https://github.com/timc823/IST347/tree/main/Week_15)
 
- **[Module 16: Final Project](https://github.com/timc823/IST347/tree/main/Week_16)**
+ [Module 16: Final Project](https://github.com/timc823/IST347/tree/main/Week_16)
 
 &nbsp;
 
