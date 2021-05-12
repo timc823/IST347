@@ -13,8 +13,6 @@ This class will familiarize you with a broad cross-section of models and algorit
 
 ## Modules
 
-**[Module 0: Course Project](https://github.com/timc823/IST347/tree/main/Project)**
-
 **[Module 1: Introduction to Machine Learning & Predictive Analytics](https://github.com/timc823/IST347/tree/main/Week_01)**
 
 **[Module 2: Data pre-processing and exploration](https://github.com/timc823/IST347/tree/main/Week_02)**
@@ -44,6 +42,9 @@ This class will familiarize you with a broad cross-section of models and algorit
  **[Module 14: NLP & Text Mining](https://github.com/timc823/IST347/tree/main/Week_14)**
  
  **[Module 15 - Miscellaneous](https://github.com/timc823/IST347/tree/main/Week_15)**
+
+ **[Module 16: Final Project](https://github.com/timc823/IST347/tree/main/Week_16)**
+
 &nbsp;
 
 ## Contributing
